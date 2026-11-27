@@ -13,7 +13,7 @@ import (
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/bnb-attestation-service/bas-go/offchain"
+	"github.com/basdotio/bas-go/offchain"
 	bundletypes "github.com/bnb-chain/greenfield-bundle-sdk/types"
 	"github.com/bnb-chain/greenfield-go-sdk/types"
 	permissionTypes "github.com/bnb-chain/greenfield/x/permission/types"

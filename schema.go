@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/bnb-attestation-service/bas-go/schemaRegistry"
+	"github.com/basdotio/bas-go/schemaRegistry"
 	"github.com/ethereum/go-ethereum/common"
 )
 
