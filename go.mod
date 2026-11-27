@@ -1,4 +1,4 @@
-module github.com/bnb-attestation-service/bas-go
+module github.com/basdotio/bas-go
 
 go 1.21.0
 

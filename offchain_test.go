@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/bnb-attestation-service/bas-go/offchain"
+	"github.com/basdotio/bas-go/offchain"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	gormLogger "gorm.io/gorm/logger"

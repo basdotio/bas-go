@@ -7,8 +7,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 
-	"github.com/bnb-attestation-service/bas-go/eas"
-	"github.com/bnb-attestation-service/bas-go/onchain"
+	"github.com/basdotio/bas-go/eas"
+	"github.com/basdotio/bas-go/onchain"
 	"github.com/ethereum/go-ethereum/common"
 )
 
